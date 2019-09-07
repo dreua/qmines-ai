@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MineAI.qml</file>
+    </qresource>
+</RCC>
